@@ -1,0 +1,12 @@
+{
+    "name": "minamikentarou/predis-learning",
+    "authors": [
+        {
+            "name": "Kentaro Minami",
+            "email": "mkentaro555@gmail.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "1.1.1"
+    }
+}
